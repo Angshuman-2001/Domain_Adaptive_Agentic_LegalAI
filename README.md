@@ -112,3 +112,7 @@ a)
 
 b)
 ![image alt](https://github.com/Angshuman-2001/Domain_Adaptive_Agentic_LegalAI/blob/29ff39f663327e9f7560fc2d75c63ff6def5324d/fallback2.png)
+
+c)
+![image alt](https://github.com/Angshuman-2001/Domain_Adaptive_Agentic_LegalAI/blob/bbcd771e9a50e25385543a0d28e91f5ed6cf47bd/fallback3.png)
+![image alt](https://github.com/Angshuman-2001/Domain_Adaptive_Agentic_LegalAI/blob/bbcd771e9a50e25385543a0d28e91f5ed6cf47bd/fallback4.png)
