@@ -105,5 +105,8 @@ a)
 ![image alt](https://github.com/Angshuman-2001/Domain_Adaptive_Agentic_LegalAI/blob/25c3814d5b0bc7bff0c03b10c3ab077dba7f430e/correct.png)
 ![image alt](https://github.com/Angshuman-2001/Domain_Adaptive_Agentic_LegalAI/blob/788894a2dcbabf874141109609c15fd8c85c321f/correct2.png)
 **Demo 2: Smart fallback mechanism (out-of-domain query)**
+a)
+![image alt](https://github.com/Angshuman-2001/Domain_Adaptive_Agentic_LegalAI/blob/5d67b0e457c0559e7d9c47b9932ea33823ca65d4/fallback.png)
+
 b)
 
