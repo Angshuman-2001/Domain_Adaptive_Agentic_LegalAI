@@ -10,7 +10,7 @@ By integrating Hybrid Search (FAISS + BM25) via Reciprocal Rank Fusion (RRF) and
 
 ### Architecture of the project
 
-![image alt]()
+![image alt](https://github.com/Angshuman-2001/Domain_Adaptive_Agentic_LegalAI/blob/2c91752d17ccfa22b6fbe7087a936e7d45205698/domain.jpg)
 
 
 ### Model UI & output demonstrations
